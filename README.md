@@ -1,4 +1,4 @@
-# 𝙷𝚎𝚕𝚕𝚘 𝙿𝚎𝚛𝚜𝚘𝚗, 𝙸'𝚖 𝙹𝚎𝚏𝚏 - 𝚊𝚔𝚊 𝚆𝚊𝚞𝚕𝚝𝚊 👋
+# Hello Person, I'm Jeff - aka Waulta 👋
 
 [![Twitter Followers](https://img.shields.io/twitter/follow/Waulta?logo=twitter&color=informational&style=for-the-badge)][twitter]
 [![Youtube Subs](https://img.shields.io/youtube/channel/subscribers/UCd6vzgmTUrtE4tZl93NpPOA?logoColor=red&logo=youtube&color=red&style=for-the-badge)][youtube]
