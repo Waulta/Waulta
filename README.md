@@ -7,7 +7,6 @@
 - I’m STILL learning everything...
 - I’m looking to expand my programming portfolio
 - 2022 Goals: Learn Web Design
-- Fun fact: I love to make stuffs and play guitar (used to).
 
 ### Languages and Tools:
 
