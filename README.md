@@ -3,8 +3,6 @@
 [![Twitter Followers](https://img.shields.io/twitter/follow/Waulta?logo=twitter&color=informational&style=for-the-badge)][twitter]
 [![Youtube Subs](https://img.shields.io/youtube/channel/subscribers/UCd6vzgmTUrtE4tZl93NpPOA?logoColor=red&logo=youtube&color=red&style=for-the-badge)][youtube]
 
-## I'm a Game Dev / Programmer / Modder / Monke / Person!!
-
 - Self Taught/Still Learning
 - I’m STILL learning everything...
 - I’m looking to expand my programming portfolio
