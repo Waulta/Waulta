@@ -1,6 +1,6 @@
 # Hello Person, I'm Waulta
 
-Amateur Software Developer currently expanding my knowledge on Web Development.
+Amateur Software Developer currently expanding my knowledge on Web & Game Development.
 
 ## About me:
 Throughout my life, I have always had a passion for technology, whether it be making video games, playing them, or pulling the consoles themselves apart. 
