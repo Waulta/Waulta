@@ -16,9 +16,9 @@
 
 # 
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/Waulta?logo=twitter&color=informational&style=for-the-badge)][twitter]
+[![Twitter Followers](https://img.shields.io/twitter/follow/WoltaDev?logo=twitter&color=informational&style=for-the-badge)][twitter]
 [![Youtube Subs](https://img.shields.io/youtube/channel/subscribers/UCd6vzgmTUrtE4tZl93NpPOA?logoColor=red&logo=youtube&color=red&style=for-the-badge)][youtube]
 
 
-[twitter]: https://twitter.com/Waulta
+[twitter]: https://twitter.com/WoltaDev
 [youtube]: https://www.youtube.com/channel/UCd6vzgmTUrtE4tZl93NpPOA
