@@ -1,9 +1,6 @@
-# Hello Person, I'm Jeff - aka Waulta
+# Hello Person, I'm Waulta
 
-- Self Taught/Still Learning
-- I’m STILL learning everything...
-- I’m looking to expand my programming portfolio
-- 2022 Goals: Learn Web Design
+Self taught programmer currently studying so that I can make this hobby a career one day.
 
 ### Languages and Tools:
 
