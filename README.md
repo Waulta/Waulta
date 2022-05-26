@@ -21,10 +21,9 @@ Currently, I'm studying multiple programming languages in hopes of turning this 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<br />
-<br />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" /><br />
 
+## Social Media:
 [![Twitter Followers](https://img.shields.io/twitter/follow/WoltaDev?logo=twitter&color=informational&style=for-the-badge)][twitter]
 [![Youtube Subs](https://img.shields.io/youtube/channel/subscribers/UCd6vzgmTUrtE4tZl93NpPOA?logoColor=red&logo=youtube&color=red&style=for-the-badge)][youtube]
 
